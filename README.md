@@ -1,7 +1,7 @@
 # covid-hungary
 Statistics about the Hungarian situation regarding the Covid19 pandemic
 
-[Latest report](http://pgabor.web.elte.hu/2020-04-26.html)
+[Latest report](http://pgabor.web.elte.hu/2020-04-27.html)
 
 ## How to clone the repo
 
